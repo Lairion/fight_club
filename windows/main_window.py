@@ -3,7 +3,7 @@ from avatar.windows.hero import CreateHero, SetHero
 from avatar.windows.boss import CreateBoss, SetBoss
 from items.windows.armor import CreateArmor, SetArmorHero, SetArmorBoss
 from items.windows.weapon import CreateWeapon, SetWeaponHero, SetWeaponBoss
-
+from windows.game_window import GameWindow
 
 
 class Main(Frame):
@@ -32,6 +32,7 @@ class MainWindow(Tk):
         "set_boss_weapon": SetWeaponBoss,
         "create_armor": CreateArmor,
         "create_weapon": CreateWeapon,
+        "play": GameWindow,
         "main":Main
     }
     
