@@ -1,0 +1,22 @@
+[
+    {
+        "name": "max",
+        "hp": 123,
+        "power": 15
+    },
+    {
+        "name": "dan",
+        "hp": 100,
+        "power": 50
+    },
+    {
+        "name": "jack",
+        "hp": 100,
+        "power": 50
+    },
+    {
+        "name": "Peter",
+        "hp": 40,
+        "power": 50
+    }
+]

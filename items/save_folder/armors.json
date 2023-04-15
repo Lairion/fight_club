@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Hello",
+        "size": 20,
+        "durability": 30,
+        "hp": 50
+    },
+    {
+        "name": "Dragon armor",
+        "size": 40,
+        "durability": 40,
+        "hp": 100
+    }
+  ]

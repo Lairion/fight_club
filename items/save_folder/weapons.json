@@ -1,0 +1,32 @@
+[
+    {
+        "name": "World",
+        "size": 30,
+        "durability": 40,
+        "power": 50
+    },
+    {
+        "name": "simple",
+        "size": 10,
+        "durability": 50,
+        "power": 100
+    },
+    {
+        "name": "tom",
+        "size": 100,
+        "durability": 20,
+        "power": 20
+    },
+    {
+        "name": "Calibr",
+        "size": 100,
+        "durability": 100,
+        "power": 100
+    },
+    {
+        "name": "kiter",
+        "size": 40,
+        "durability": 5,
+        "power": 55
+    }
+]
